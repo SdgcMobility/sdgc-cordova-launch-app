@@ -1,0 +1,1 @@
+# sdgc-cordova-launch-app
