@@ -1,0 +1,27 @@
+{
+  "name": "sdgc-cordova-launch-app",
+  "version": "1.0.0",
+  "description": "Cordova app launcher plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SdgcMobility/sdgc-cordova-launch-app.git"
+  },
+  "keywords": [
+    "launch",
+    "launch-native-app",
+	"cordova-native-app",
+	"open-native-app",
+	"launch-installed-app",
+	"launch-facebook",
+	"call-installed-app",
+	"open-hybrid-app",
+	"cordova-launch-app"
+  ],
+  "author": "Sdgc Mobility <MobilityAdmins@sdgc.com> (http://www.sdgc.com/)",
+  "license": "Apache-2.0"
+  
+}
